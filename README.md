@@ -2,7 +2,7 @@
 **Full Stack Developer 💻 | Illustrator ✍️**
 ##### Recent graduate of Le Wagon Full Stack Web Development Bootcamp in London! 
 
-🐱‍👤 Addicted to cracking katas at Codewars
+🐱‍👤 Addicted to cracking katas at Codewars  
 🐷🦝🌲Love animals and nature  
 👩‍💻 Looking for work!  
 📬 How to reach me: lotfi.sara@gmail.com  
