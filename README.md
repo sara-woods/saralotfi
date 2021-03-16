@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi, I'm Sara 👀
+**Front End Developer 💻 | Illustrator ✍️**
+##### Recent graduate of Le Wagon Full Stack Web Development Bootcamp in London! 
+
+🐱‍👤 Addicted to cracking katas at Codewars
+👩‍💻 Looking for work!
+📬 How to reach me: lotfi.sara@gmail.com
+
+##### My latest projects
+🏋️‍♀️[Wellsy](wellsy.live)
+🚤[Floatify](floatifyapp.herokuapp.com)
 
 <!--
 **saralotfi/saralotfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
