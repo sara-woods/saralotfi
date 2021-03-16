@@ -3,15 +3,15 @@
 ##### Recent graduate of Le Wagon Full Stack Web Development Bootcamp in London! 
 
 🐱‍👤 Addicted to cracking katas at Codewars  
-🐋🐷🌲Love animals and nature  
+🦆🐷🌲Love animals and nature  
 👩‍💻 Looking for work!  
 📬 How to reach me: lotfi.sara@gmail.com  
 
-**My latest projects**
+**My latest projects**  
 🏋️‍♀️[Wellsy](wellsy.live)  
 🚤[Floatify](floatifyapp.herokuapp.com)
 
-##### Check out my illustrations 
+**Check out my illustrations**  
 🌱[saraolga.com](saraolga.com)
 
 <!--
