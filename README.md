@@ -1,5 +1,5 @@
 ## Hi, I'm Sara 👀
-**Front End Developer 💻 | Illustrator ✍️**
+**Full Stack Developer 💻 | Illustrator ✍️**
 ##### Recent graduate of Le Wagon Full Stack Web Development Bootcamp in London! 
 
 🐱‍👤 Addicted to cracking katas at Codewars  
