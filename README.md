@@ -3,7 +3,8 @@
   
 *Recent graduate of Le Wagon Full Stack Web Development Bootcamp in London!*
 
-🐱‍👤 Addicted to cracking katas at Codewars  
+🌱 I’m currently learning React
+🐱‍👤 Cracking katas at Codewars is fun! 
 🦆🐷🌲Love animals and nature  
 👩‍💻 Looking for work!  
 📬 How to reach me: lotfi.sara@gmail.com  
@@ -13,7 +14,7 @@
 🚤[Floatify](floatifyapp.herokuapp.com)
 
 **Check out my illustrations**  
-🌱[saraolga.com](saraolga.com)
+⚡[saraolga.com](saraolga.com)
 
 <!--
 **saralotfi/saralotfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
