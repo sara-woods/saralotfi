@@ -7,6 +7,7 @@
 🐱‍👤 Cracking katas at Codewars is fun!  
 🦆🐷🌲Love animals and walking through the forest  
 👩‍💻 Looking for work!  
+🌍 Based in Sweden  
 📬 How to reach me: lotfi.sara@gmail.com  
 
 
