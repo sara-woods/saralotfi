@@ -5,10 +5,8 @@
 
 🌱 I’m currently learning React  
 🐱‍👤 Love problem solving and creating aesthetically pleasing web content  
-🦆🐷🌲Passionate about animals and nature   
 👩‍💻 Looking for work!  
-📄 Learn about my experiences: [linkedin.com/in/sara-lotfi](https://www.linkedin.com/in/sara-lotfi/)  
-📬 How to reach me: lotfi.sara@gmail.com  
+📬 How to reach me: lotfi.sara@gmail.com or [linkedin.com/in/sara-lotfi](https://www.linkedin.com/in/sara-lotfi/)    
 
 
 
@@ -21,6 +19,12 @@
 
 **Check out my illustrations**  
 ✏️[www.saraolga.com](https://www.saraolga.com)
+
+**Some of my interests**  
+⛰️ Rock climbing
+🏂 Snowboarding
+🦆🐷🌲 Animals and nature  
+
 
 <!--
 **saralotfi/saralotfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
