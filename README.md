@@ -4,11 +4,12 @@
 *Graduate of Le Wagon Full Stack Web Development Bootcamp in London!*
 
 🌱 I’m currently learning React  
-🐱‍👤 Cracking katas at Codewars is fun!  
-🦆🐷🌲Love animals and walking through the forest  
+🐱‍👤 Love problem solving and creating aesthetically pleasing web content  
+🦆🐷🌲Passionate about animals and nature   
 👩‍💻 Looking for work!  
-🌍 Based in Sweden  
+📄 Learn about my experiences: [linkedin.com/in/sara-lotfi](https://www.linkedin.com/in/sara-lotfi/)  
 📬 How to reach me: lotfi.sara@gmail.com  
+
 
 
 **My latest projects**  
