@@ -3,6 +3,8 @@
   
 *Graduate of Le Wagon Full Stack Web Development Bootcamp in London!*
 
+**Portfolio:** [saralotfi.dev](https://saralotfi.dev)
+
 🌱 I’m currently learning React  
 🐱‍👤 Love problem solving and creating aesthetically pleasing web content  
 👩‍💻 Looking for work!  
