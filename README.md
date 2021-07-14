@@ -7,9 +7,7 @@
 
 🌱 I’m currently learning React  
 🐱‍👤 Love problem solving and creating aesthetically pleasing web content  
-👩‍💻 Looking for work!  
 📬 How to reach me: lotfi.sara@gmail.com or [linkedin.com/in/sara-lotfi](https://www.linkedin.com/in/sara-lotfi/)    
-
 
 
 **My latest projects**  
