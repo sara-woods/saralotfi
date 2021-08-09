@@ -5,7 +5,7 @@
 
 **Portfolio:** [saralotfi.dev](https://saralotfi.dev)
 
-🌱 I’m currently learning React  
+🌱 I’m working at [App Schack](https://github.com/app-shack)  
 🐱‍👤 Love problem solving and creating aesthetically pleasing web content  
 📬 How to reach me: lotfi.sara@gmail.com or [linkedin.com/in/sara-lotfi](https://www.linkedin.com/in/sara-lotfi/)    
 
