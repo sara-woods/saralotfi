@@ -5,8 +5,7 @@
 
 **Portfolio:** [saralotfi.dev](https://saralotfi.dev)
 
-🌱 I’m working at [App Shack](https://github.com/app-shack)  
-🐱‍👤 Love problem solving and creating aesthetically pleasing web content  
+🌱 I’m working as a front-end developer at [App Shack](https://www.appshack.se/)  
 📬 How to reach me: lotfi.sara@gmail.com or [linkedin.com/in/sara-lotfi](https://www.linkedin.com/in/sara-lotfi/)    
 
 
