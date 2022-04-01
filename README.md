@@ -28,7 +28,7 @@
 
 
 ### Some other interests of mine
-⛰️ Rock climbing
+✨ Yoga
 🏂 Snowboarding
 🦆🐷🌲 Animals and nature  
 
